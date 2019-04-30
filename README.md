@@ -1,2 +1,2 @@
 # aibiancheng
-Coding lessons for kids.
+Teach kids how to code.
